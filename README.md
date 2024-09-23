@@ -10,4 +10,4 @@ This project visualizes the KITTI dataset using ROS (Robot Operating System). It
 
 - ## Demo
 
-![KITTI Data Visualization](./demo.gif)
+![KITTI Data Visualization](./kitti.gif)
